@@ -1,0 +1,14 @@
+{
+  "id": "pmmvy",
+  "name": "Pradhan Mantri Matru Vandana Yojana",
+  "benefit_first_child": 5000,
+  "benefit_second_child_girl": 6000,
+  "documents": [
+    {"id": "aadhaar", "emoji": "🪪"},
+    {"id": "passbook", "emoji": "🏦"},
+    {"id": "mcp", "emoji": "📒"}
+  ],
+  "apply_at": "Anganwadi centre / approved health facility",
+  "helpline": "181",
+  "_verify": "Confirm amounts, eligibility and documents on the official PMMVY / Mission Shakti pages before demo day."
+}
